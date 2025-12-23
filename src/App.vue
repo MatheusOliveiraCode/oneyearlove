@@ -105,7 +105,7 @@ const astros = [
   {
     title: '1 ano',
     subtitle: 'A minha estrela guia',
-    message: 'Feliz 1 ano de namoro. Eu te amo, obrigado por ser minha estrela guia, por imluminar minha vida e fazer todos os dias mais felizes, espero poder orbitar seu brilho para sempre <3.',
+    message: 'Feliz 1 ano de namoro. Eu te amo, obrigado por ser minha estrela guia, por iluminar minha vida e fazer todos os dias mais felizes, espero poder orbitar seu brilho para sempre <3.',
     kind: 'star',
   },
 ]
